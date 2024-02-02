@@ -96,3 +96,59 @@ Fri Feb 02 2024 20:57:39 GMT+0100 (heure normale d’Europe centrale)
 fatal: not a git repository (or any of the parent directories): .git
 
 
+----------
+
+Fri Feb 02 2024 20:58:33 GMT+0100 (heure normale d’Europe centrale)
+
+warning: in the working copy of 'assets/bootstrap/css/bootstrap.min.css', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Feb 02 2024 20:58:33 GMT+0100 (heure normale d’Europe centrale)
+
+warning: in the working copy of 'contacts.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Feb 02 2024 20:58:33 GMT+0100 (heure normale d’Europe centrale)
+
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Feb 02 2024 20:58:33 GMT+0100 (heure normale d’Europe centrale)
+
+warning: in the working copy of 'pricing.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Feb 02 2024 20:58:33 GMT+0100 (heure normale d’Europe centrale)
+
+warning: in the working copy of 'projects.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Feb 02 2024 20:58:33 GMT+0100 (heure normale d’Europe centrale)
+
+warning: in the working copy of 'services.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Feb 02 2024 20:58:33 GMT+0100 (heure normale d’Europe centrale)
+
+warning: in the working copy of 'sitemap.xml', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Feb 02 2024 20:58:34 GMT+0100 (heure normale d’Europe centrale)
+
+Everything up-to-date
+
+
